@@ -1,4 +1,4 @@
-module iiitb_SDM(sequence_in,clock,reset,detector_out);
+module pes_seqdetect(sequence_in,clock,reset,detector_out);
 input clock; // clock signal
 input reset; // reset input
 input sequence_in; // binary input
